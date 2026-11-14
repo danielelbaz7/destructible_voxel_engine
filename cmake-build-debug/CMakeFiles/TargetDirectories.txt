@@ -1,0 +1,3 @@
+C:/Users/dyona/CLionProjects/destructible_voxel_engine/cmake-build-debug/CMakeFiles/destructible_voxel_engine.dir
+C:/Users/dyona/CLionProjects/destructible_voxel_engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dyona/CLionProjects/destructible_voxel_engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
